@@ -8166,7 +8166,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="GND17" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND18" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND19" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="J4" library="SparkFun-Connectors" deviceset="6_PIN_SERIAL_TARGET" device=""/>
+<part name="J4" library="SparkFun-Connectors" deviceset="6_PIN_SERIAL_TARGET" device="" value="PROGRAM"/>
 <part name="J1" library="SparkFun-Connectors" deviceset="CONN_04" device="" value="BOOT"/>
 </parts>
 <sheets>
